@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Tech Speaking Club - Unlock your voice
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+The tech speaking club is an online english conversation club for intermediate english speakers (and up). The project shows an animated scene of what a meeting from the tech speaking club looks like.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
