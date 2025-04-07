@@ -1,17 +1,17 @@
 # Tech Speaking Club - Unlock your voice
 
 ## 📒 Descrição
-The tech speaking club is an online english conversation club for intermediate english speakers (and up). The project shows a corporate ad for the Tech Speaking Club, prompting people to join to unlock their speaking skills.
+Este projeto prático apresenta o Tech Speaking Club, um clube de conversação online em inglês voltado para profissionais da área de tecnologia com nível intermediário (ou superior). O objetivo foi criar um anúncio corporativo que convidasse pessoas a desbloquearem suas habilidades de fala em inglês ao participarem do clube. 
 
 ## 🤖 Tecnologias Utilizadas
-* ChatGTP 4.0
-* Synthesia
+*ChatGPT 4.0: utilizado para gerar o roteiro do vídeo a partir de um briefing detalhado sobre o clube.
+*Synthesia: ferramenta de criação de vídeos com avatares de IA, onde o roteiro foi inserido e customizado com logotipo, cores e template visual adequados.
 
 ## 🧐 Processo de Criação
-O ChatGPT foi alimentado com informações sobre o Tech Speaking Club, em seguida descrevi o contexto e pedi que gerasse um anúncio corporativo para o clube. O script foi copiado e colado na AI Synthesia. O synthesia tem alguns templates de vídeo. Foi escolhido o mais adequeado, bem como feitas modificações como: adição da imagem para logotipo no vídeo e mudança de cores do template. Em seguida, o script criado no GPT foi colado e o vídeo gerado automaticamente. 
+A primeira etapa foi alimentar o ChatGPT com informações sobre o projeto. Com base nesse contexto, foi gerado um script para o anúncio. O texto foi então copiado para o Synthesia, onde foi escolhido um template de vídeo apropriado. Personalizações visuais foram feitas, como a inclusão do logotipo e a alteração das cores. O resultado foi um vídeo institucional criado de forma automatizada.
 
 ## 🚀 Resultados
-Um anúncio corporativo para o Tech Speaking Club foi criado. Segue o link: https://share.synthesia.io/5cd91443-129f-4b73-91a8-05dbbb83d7c8
+Confira o vídeo: https://share.synthesia.io/5cd91443-129f-4b73-91a8-05dbbb83d7c8
 
 ## 💭 Reflexão (Opcional)
-A parte mais complicada foi o brainstorming. Até cheguei a tentar executar outras ideias mais complexas, mas que me levaram a becos sem saída (ou cuja saída seria assinar mais um serviço baratinho por apaneas $29.90). Quando decidi por algo mais simples, a execução foi rápida. 
+A parte mais desafiadora foi o brainstorming inicial. Experimentei ideias mais ambiciosas que acabaram não sendo viáveis (ou exigiam mais uma assinatura mensal de $29,90). Ao simplificar a proposta, a execução fluiu com leveza e rapidez.
