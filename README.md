@@ -1,7 +1,7 @@
 # Tech Speaking Club - Unlock your voice
 
 ## 📒 Descrição
-The tech speaking club is an online english conversation club for intermediate english speakers (and up). The project shows an animated scene of what a meeting from the tech speaking club looks like.
+The tech speaking club is an online english conversation club for intermediate english speakers (and up). The project shows a corporate ad for the Tech Speaking Club, prompting people to join to unlock their speaking skills.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
